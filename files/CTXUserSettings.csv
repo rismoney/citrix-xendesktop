@@ -1,0 +1,173 @@
+key,name,value,type
+"hku\Injecthere\Control Panel\Desktop","MenuShowDelay","0",REG_SZ
+"hku\Injecthere\Control Panel\Desktop","CursorBlinkRate","-1",REG_SZ
+"hku\Injecthere\Control Panel\Desktop","DisableCursorBlink","1",REG_DWORD
+"hku\Injecthere\Control Panel\Desktop","AutoEndTasks","1",REG_SZ
+"hku\Injecthere\Control Panel\Desktop","WaitToKillAppTimeout","15000",REG_SZ
+"hku\Injecthere\Software\Microsoft\Internet Explorer\Main","Force Offscreen Composition","1",REG_DWORD
+"hku\Injecthere\Software\Policies\Microsoft\Windows\Control Panel\Desktop","ScreenSaveActive","0",REG_SZ
+"hku\Injecthere\Control Panel\Desktop","ScreenSaveActive","0",REG_SZ
+"hku\Injecthere\Control Panel\Desktop","DragFullWindows","0",REG_SZ
+"hku\Injecthere\Control Panel\Desktop\WindowMetrics","MinAnimate","0",REG_SZ
+"hku\Injecthere\Control Panel\Desktop","FontSmoothing","0",REG_SZ
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Explorer\VisualEffects","VisualFXSetting","2",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced","ListviewAlphaSelect","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced","TaskbarAnimations","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced","ListviewWatermark","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced","ListviewShadow","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer","HideSCAHealth","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer","NoResolveSearch","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer","NoResolveTrack","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer","NoSearchCommInStartMenu","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer","NoSearchInternetInStartMenu","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer","NoDrives","15",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Internet Settings\Cache","Persistent","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Feeds","SyncStatus","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced","DisableThumbnailCache","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced","NoThumbnailCache","1",REG_DWORD
+"hku\Injecthere\Software\Policies\Microsoft\WindowsStore","RemoveWindowsStore","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\windows\CurrentVersion\ConnectSearch","ConnectedSearchUseWeb","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Explorer\StartPage","OpenAtLogon","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel","{20D04FE0-3AEA-1069-A2D8-08002B30309D}","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel","{645FF040-5081-101B-9F08-00AA002F954E}","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\MediaPlayer\Setup\UserOptions","DesktopShortcut","No",REG_SZ
+"hku\Injecthere\Software\Microsoft\MediaPlayer\Setup\UserOptions","QuickLaunchShortcut","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\MediaPlayer\Preferences","AcceptedPrivacyStatement","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\MediaPlayer\Preferences","FirstRun","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\MediaPlayer\Preferences","DisableMRU","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\MediaPlayer\Preferences","AutoCopyCD","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced","AutoCheckSelect","0",REG_DWORD
+"hku\Injecthere\Software\Adobe\Adobe Acrobat\9.0\AdobeViewer","EULAAcceptedForBrowser","1",REG_DWORD
+"hku\Injecthere\Software\Adobe\Adobe Acrobat\9.0\AdobeViewer","Launched","1",REG_DWORD
+"hku\Injecthere\Software\Adobe\Adobe Acrobat\9.0\Updater","bFirstTimeAppHasRun","0",REG_DWORD
+"hku\Injecthere\Software\Adobe\Adobe Acrobat\9.0\TrustManager","bEnhancedSecurityInBrowser","0",REG_DWORD
+"hku\Injecthere\Software\Adobe\Adobe Acrobat\9.0\TrustManager","bEnhancedSecurityStandalone","0",REG_DWORD
+"hku\Injecthere\Software\Adobe\Adobe Acrobat\9.0\AVGeneral","iConnectionSpeed","989680",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Internet Explorer\Main","NoProtectedModeBanner","1",REG_DWORD
+"hku\Injecthere\Software\Policies\Firefox","FirefoxHomepage","http://intranet",REG_SZ
+"hku\Injecthere\Software\Adobe\Adobe Acrobat\9.0\SDI","bMaximizeNextDocument","1",REG_DWORD
+"hku\Injecthere\Software\Adobe\Adobe Acrobat\9.0\SDI","bNullDocMaximized","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Internet Explorer\Main","NoProtectedModeBanner","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Internet Explorer\Main","Start Page","http://intranet",REG_SZ
+"hku\Injecthere\Software\Microsoft\Office\Excel\Addins\FactSet.OfficeAddin.1","LoadBehavior","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Office\Excel\Addins\FactSet.OfficeAddin.1","CommandLineSafe","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Office\Excel\Addins\FactSet.OfficeAddin.1","FriendlyName","FactSet Office COM Add-In",REG_SZ
+"hku\Injecthere\Software\Microsoft\Office\Excel\Addins\FactSet.OfficeAddin.1","Description","FactSet Office COM Add-In",REG_SZ
+"hku\Injecthere\Software\Microsoft\Office\Word\Addins\FactSet.OfficeAddin.1","LoadBehavior","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Office\Word\Addins\FactSet.OfficeAddin.1","CommandLineSafe","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Office\Word\Addins\FactSet.OfficeAddin.1","FriendlyName","FactSet Office COM Add-In",REG_SZ
+"hku\Injecthere\Software\Microsoft\Office\Word\Addins\FactSet.OfficeAddin.1","Description","FactSet Office COM Add-In",REG_SZ
+"hku\Injecthere\Software\Microsoft\Office\PowerPoint\Addins\FactSet.OfficeAddin.1","LoadBehavior","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Office\PowerPoint\Addins\FactSet.OfficeAddin.1","CommandLineSafe","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Office\PowerPoint\Addins\FactSet.OfficeAddin.1","FriendlyName","FactSet Office COM Add-In",REG_SZ
+"hku\Injecthere\Software\Microsoft\Office\PowerPoint\Addins\FactSet.OfficeAddin.1","Description","FactSet Office COM Add-In",REG_SZ
+"hku\Injecthere\Software\Microsoft\Office\Outlook\Addins\FactSet.OfficeAddin.1","LoadBehavior","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Office\Outlook\Addins\FactSet.OfficeAddin.1","CommandLineSafe","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Office\Outlook\Addins\FactSet.OfficeAddin.1","FriendlyName","FactSet Office COM Add-In",REG_SZ
+"hku\Injecthere\Software\Microsoft\Office\Outlook\Addins\FactSet.OfficeAddin.1","Description","FactSet Office COM Add-In",REG_SZ
+"hku\Injecthere\Software\Microsoft\Office\OneNote\Addins\FactSet.OfficeAddin.1","LoadBehavior","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Office\OneNote\Addins\FactSet.OfficeAddin.1","CommandLineSafe","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Office\OneNote\Addins\FactSet.OfficeAddin.1","FriendlyName","FactSet Office COM Add-In",REG_SZ
+"hku\Injecthere\Software\Microsoft\Office\OneNote\Addins\FactSet.OfficeAddin.1","Description","FactSet Office COM Add-In",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","(Default)","Windows",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","CloneUser","1",REG_DWORD
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","ComponentID","MailNews",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","DontAsk","1",REG_DWORD
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","IsInstalled","1",REG_DWORD
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","Locale","*",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","StubPath","\""%ProgramFiles%\Windows Mail\WinMail.exe\"" OCInstallUserConfig",REG_EXPAND_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","Version","6,3,9600,16384",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","(Default)","Microsoft Windows Media Player",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","ComponentID","Microsoft Windows Media Player",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","DontAsk","2",REG_DWORD
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","IsInstalled","1",REG_DWORD
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","Locale","EN",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","LocalizedName","@%SystemRoot%\system32\wmploc.dll,-128",REG_EXPAND_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","StubPath","%SystemRoot%\system32\unregmp2.exe /FirstLogon",REG_EXPAND_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","Version","12,0,9600,16384",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{89B4C1CD-B018-4511-B0A1-5476DBF70820}","ComponentID","DOTNETFRAMEWORKS",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{89B4C1CD-B018-4511-B0A1-5476DBF70820}","DontAsk","2",REG_DWORD
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{89B4C1CD-B018-4511-B0A1-5476DBF70820}","IsInstalled","1",REG_DWORD
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{89B4C1CD-B018-4511-B0A1-5476DBF70820}","StubPath","C:\Windows\SysWOW64\Rundll32.exe C:\Windows\SysWOW64\mscories.dll,Install",REG_EXPAND_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{8A69D345-D564-463c-AFF1-A69D9E530F96}","(Default)","Google Chrome",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{8A69D345-D564-463c-AFF1-A69D9E530F96}","IsInstalled","1",REG_DWORD
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{8A69D345-D564-463c-AFF1-A69D9E530F96}","LocalizedName","Google Chrome",REG_EXPAND_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{8A69D345-D564-463c-AFF1-A69D9E530F96}","StubPath","C:\Program Files (x86)\Google\Chrome\Application\39.0.2171.71\Installer\chrmstp.exe --configure-user-settings --verbose-logging --system-level --multi-install --chrome",REG_EXPAND_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\{8A69D345-D564-463c-AFF1-A69D9E530F96}","Version","24,0,0,0",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","(Default)","Microsoft Windows Media Player",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","ComponentID","WMPACCESS",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","DontAsk","2",REG_DWORD
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","IsInstalled","0",REG_DWORD
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","Locale","*",REG_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","LocalizedName","@%SystemRoot%\system32\wmploc.dll,-128",REG_EXPAND_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","StubPath","%SystemRoot%\system32\unregmp2.exe /ShowWMP",REG_EXPAND_SZ
+"hku\Injecthere\Software\Wow6432Node\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","Version","12,0,9600,16384",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED}","(Default)","Themes Setup",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED}","ComponentID","Theme Component",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED}","IsInstalled","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED}","Locale","EN",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED}","LocalizedName","@%SystemRoot%\system32\themeui.dll,-2682",REG_EXPAND_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED}","StubPath","/UserInstall",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{2C7339CF-2B09-4501-B3F3-F3508C9228ED}","Version","1,1,1,9",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","(Default)","Microsoft Windows",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","CloneUser","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","ComponentID","MailNews",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","DontAsk","2",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","IsInstalled","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","Locale","*",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","StubPath","\""%ProgramFiles%\Windows Mail\WinMail.exe\"" OCInstallUserConfigOE",REG_EXPAND_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{44BBA840-CC51-11CF-AAFA-00AA00B6015C}","Version","6,3,9600,16384",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","(Default)","Microsoft Windows Media Player",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","ComponentID","Microsoft Windows Media Player",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","DontAsk","2",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","IsInstalled","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","Locale","EN",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","LocalizedName","@%SystemRoot%\system32\wmploc.dll,-128",REG_EXPAND_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","StubPath","%SystemRoot%\system32\unregmp2.exe /FirstLogon",REG_EXPAND_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{6BF52A52-394A-11d3-B153-00C04F79FAA6}","Version","12,0,9600,16384",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4340}","(Default)","Windows Desktop Update",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4340}","ComponentID","IE4_SHELLID",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4340}","IsInstalled","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4340}","Locale","en",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4340}","LocalizedName","@%SystemRoot%\system32\shell32.dll,-32969",REG_EXPAND_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4340}","ShellComponent","shell32.dll",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4340}","StubPath","U",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4340}","Version","6,3,9600,16660",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4383}","(Default)","Web Platform Customizations",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4383}","ComponentID","BASEIE40_W2K",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4383}","Dontask","2",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4383}","IsInstalled","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4383}","Locale","*",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4383}","LocalizedName","@C:\Windows\System32\ie4uinit.exe,-2000",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4383}","StubPath","C:\Windows\System32\ie4uinit.exe -UserConfig",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89820200-ECBD-11cf-8B85-00AA005B4383}","Version","11,0,9600,0",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89B4C1CD-B018-4511-B0A1-5476DBF70820}","ComponentID","DOTNETFRAMEWORKS",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89B4C1CD-B018-4511-B0A1-5476DBF70820}","DontAsk","2",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89B4C1CD-B018-4511-B0A1-5476DBF70820}","IsInstalled","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{89B4C1CD-B018-4511-B0A1-5476DBF70820}","StubPath","C:\Windows\system32\Rundll32.exe C:\Windows\system32\mscories.dll,Install",REG_EXPAND_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A7-37EF-4b3f-8CFC-4F3A74704073}","(Default)","Applying Enhanced Security Configuration",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A7-37EF-4b3f-8CFC-4F3A74704073}","ComponentID","IEHardenAdmin",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A7-37EF-4b3f-8CFC-4F3A74704073}","Dontask","2",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A7-37EF-4b3f-8CFC-4F3A74704073}","IsInstalled","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A7-37EF-4b3f-8CFC-4F3A74704073}","Locale","en",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A7-37EF-4b3f-8CFC-4F3A74704073}","LocalizedName","@C:\Windows\System32\iesetup.dll,-3010",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A7-37EF-4b3f-8CFC-4F3A74704073}","StubPath","\""C:\Windows\System32\rundll32.exe\"" \""C:\Windows\System32\iesetup.dll\"",IEHardenAdmin",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A7-37EF-4b3f-8CFC-4F3A74704073}","Version","11,0,9600,0",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A8-37EF-4b3f-8CFC-4F3A74704073}","(Default)","Applying Enhanced Security Configuration",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A8-37EF-4b3f-8CFC-4F3A74704073}","ComponentID","IEHardenUser",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A8-37EF-4b3f-8CFC-4F3A74704073}","Dontask","2",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A8-37EF-4b3f-8CFC-4F3A74704073}","IsInstalled","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A8-37EF-4b3f-8CFC-4F3A74704073}","Locale","en",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A8-37EF-4b3f-8CFC-4F3A74704073}","LocalizedName","@C:\Windows\System32\iesetup.dll,-3011",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A8-37EF-4b3f-8CFC-4F3A74704073}","StubPath","\""C:\Windows\System32\rundll32.exe\"" \""C:\Windows\System32\iesetup.dll\"",IEHardenUser",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\{A509B1A8-37EF-4b3f-8CFC-4F3A74704073}","Version","11,0,9600,0",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","(Default)","Microsoft Windows Media Player",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","ComponentID","WMPACCESS",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","DontAsk","2",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","IsInstalled","0",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","Locale","*",REG_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","LocalizedName","@%SystemRoot%\system32\wmploc.dll,-128",REG_EXPAND_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","StubPath","%SystemRoot%\system32\unregmp2.exe /ShowWMP",REG_EXPAND_SZ
+"hku\Injecthere\Software\Microsoft\Active Setup\Installed Components\>{22d6f312-b0f6-11d0-94ab-0080c74c7e95}","Version","12,0,9600,16384",REG_SZ
+"hku\Injecthere\Software\Microsoft\Office\15.0\Outlook\Options\Spelling","Check","1",REG_DWORD
+"hku\Injecthere\Software\Microsoft\Office\15.0\Common","UI Theme","1",REG_DWORD

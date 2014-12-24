@@ -13,7 +13,7 @@ Write-host "--------------------------------------------------------------------
 # if a cluster is setup never do an initial configuration
 
 $HostBaseUrl
-$FarmName 
+$FarmName
 $FarmType
 $FarmServers
 $HTTPSport

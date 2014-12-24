@@ -4,21 +4,28 @@ class citrix::storefront {
     ensure => present,
   }
 
-  file {'g5.cer':
-    ensure  => present,
-    path    => 'C:/@inf/g5.cer',
-    source  => "puppet:///modules/${module_name}/g5.cer",
+  file {'C:\inetpub\wwwroot\Citrix\StoreWeb\contrib\custom.script.js':
+    ensure  => file,
+    source  => "puppet:///modules/${module_name}/webscripts/custom.script.js",
     require => Package['CitrixStoreFront'],
   }
 
-  exec {'install-cert':
-    command     => 'CERTUTIL -addstore -f -enterprise root C:\@inf\g5.cer',
-    provider    => powershell,
-    subscribe   => File['g5.cer'],
-    refreshonly => true,
+  file {'C:\inetpub\wwwroot\Citrix\StoreWeb\contrib\custom.style.css':
+    ensure  => file,
+    source  => "puppet:///modules/${module_name}/webscripts/custom.style.css",
+    require => Package['CitrixStoreFront'],
   }
 
-  if $::ise_mock_sequence == '01' {
+  file {'C:\inetpub\wwwroot\Citrix\StoreWeb\contrib\GetServerData.aspx':
+    ensure  => file,
+    source  => "puppet:///modules/${module_name}/webscripts/GetServerData.aspx",
+    require => Package['CitrixStoreFront'],
+  }
+
+  realize File ['Disable-NicPowerMgmt.ps1']
+  realize Exec ['Disable-NicPowerMgmt']
+
+  if $::ise_mock_sequence == '00' {
 
     file {'c:/@inf/citrix':
       ensure  => directory,
@@ -90,6 +97,7 @@ class citrix::storefront {
       path       => 'C:/@inf/citrix',
       creates    => 'c:/@inf/winbuild/logs/citrix/update-gw.log',
     }
+
     exec {'httpredirect.ps1':
       command    => 'c:/@inf/citrix/httpredirect.ps1',
       provider   => powershell,
@@ -98,5 +106,6 @@ class citrix::storefront {
       path       => 'C:/@inf/citrix',
       creates    => 'c:/@inf/winbuild/logs/citrix/httpredirect.log',
     }
+
   }
 }

@@ -2,7 +2,7 @@
 . .\sfheader.ps1
 . .\sfconfig.ps1
 
-$logfile = join-path $logpath "setfarm.log"
+$logfile = join-path $logpath "set-farm.log"
 start-transcript -path $logfile -noclobber
 
 $FarmSet = @{

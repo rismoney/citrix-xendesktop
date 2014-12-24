@@ -1,54 +1,43 @@
 citrix-xendesktop
 =================
 
-completely automated xendestop deployment via source of truth files
+completely automated xendestop deployment via puppet
 
-Completed Status
------
-StoreFront installation completely managed via powershell
+status
+======
+this is a fork of an internal repo demonstrating how I manage an
+entire Citrix XenDesktop 7 environment using Puppet
 
-XenDesktop Database
+This is meant to be a starting point for an experience sysadmin
+interested in learning how to deploy an complex ecosystem app
+like Citrix XD7.
 
-Licensing
+Interesting concepts leveraged
+==============================
 
-Initial Site Creation 
+Default User Profile management
+
+Complete powershell scripts for storefront, DDC, etc
+
+Built around Windows 2012 and optimizations included!
+
+Our multi-os pattern
+
+Fun tidbits, like hiera_include, create_resources, registry provider,
+hints at our host impersonation patterns and lots of hard things
+made easy!
 
 
-TODO
-----
+at this point it is simply not forkliftable to use in your environment
+but it will be one day.
 
-Configuration included for XenApp
+Things missing but not for long-
+hieradata
+chocopackage source
 
-Single Netscaler with addtl config provided
+How you might be able to use it-
+Start by grep the repository for example.com on things to change
+Review...Review...Review all the things!
 
-All configuration is done via 
+help it get there?  Submit a PR!
 
-sfconfig.ps1
-
-licconfig.ps1
-
-dcconfig.ps1
-
-...replace example.com with your appropriate hostnames...
-
-Right now the scripts are not "idempotent" so they could blow up on multiple runs...
-
-Order of Execution
-* initialize-sf.ps1
-* set-farm.ps1
-* add-auth.ps1
-* add-agee.ps1
-* set-beacons.ps1
-* set-remoteaccess.ps1
-* update-gw.ps1
-
-TODO
-----
-Delivery Controller
-Database
-Licensing
-
-Future
-----
-Integrate into Puppet
-Chocolatey Packages (complete but not yet opensourced)

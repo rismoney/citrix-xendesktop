@@ -2,7 +2,7 @@
 . .\sfheader.ps1
 . .\sfconfig.ps1
 
-$logfile = join-path $logpath "setbeacons.log"
+$logfile = join-path $logpath "set-beacons.log"
 start-transcript -path $logfile -noclobber
 
 # Setting up Internal Beacon

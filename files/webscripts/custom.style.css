@@ -1,0 +1,10 @@
+/* for added server info */
+#server-info {
+    font-size:12px;
+    float: left;
+    margin-right: 40px;
+    margin-top: 12px;
+    position: relative;
+    vertical-align: middle;
+  color: white;
+}

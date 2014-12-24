@@ -5,7 +5,7 @@
 # -------------------------------------------
 
 [String]$HostBaseUrl = "https://storefront.example.com"
-[String]$FarmName = "Farm1"
+[String]$FarmName = "ISEFarm1"
 [String]$FarmType = "XenDesktop"
 [String]$FarmServers = "xendesktopa.example.com"
 [Int]$HTTPport = 80
@@ -13,8 +13,8 @@
 [Int]$SSLRelayPort = 443
 $LoadBalancing = $false
 [String]$AuthenticationVirtualPath = "/Citrix/Authentication"
-[String]$StoreVirtualPath = "/Citrix/store"
-[String]$WebReceiverVirtualPath = "/Citrix/StoreWeb"
+[String]$StoreVirtualPath = "/Citrix/Storefront"
+[String]$WebReceiverVirtualPath = "/Citrix/StorefrontWeb"
 [String]$DesktopApplianceVirtualPath = "/Citrix/DesktopAppliance"
 [String]$RoamingVirtualPath = "/Citrix/Roaming"
 
@@ -54,7 +54,7 @@ $FarmSettings["Platform"] = $Platform
 
 $FarmSettings["TransportType"] = "HTTPS"
 $FarmSettings["Port"] = 443
-$FarmSettings["Servers"] = @('cd-ctx11.office.example.com')
+$FarmSettings["Servers"] = @('cc-cdc01.example.com')
 $FarmSettings["SSLRelayPort"] = 443 #$StoreFarm["SSLRelayPort"]
 $FarmSettings["ShareFileIntegration"] = $False
 $FarmSettings["LoadBalance"] = $False
@@ -69,10 +69,10 @@ $Farms += $FarmSettings
 # do not modify the following lines
 [HashTable]$FarmSettings = @{}
 
-# display name    
+# display name
 $FarmSettings["FarmName"] = "XenApp1"
 
-#do not modify the following 3 lines    
+#do not modify the following 3 lines
 [HashTable]$Platform = @{}
 $Platform["Caption"] = "PlatformCaption"
 $Platform["DisplayName"] = "PlatformDisplayName"
@@ -81,7 +81,7 @@ $FarmSettings["Platform"] = $Platform
 
 $FarmSettings["TransportType"] = "HTTP"
 $FarmSettings["Port"] = 80
-$FarmSettings["Servers"] = @('pc-ctx11.prod.example.com','pc-ctx12.prod.example.com')
+$FarmSettings["Servers"] = @('pc-ctx11.example.com','pc-ctx12.prod.example.com')
 $FarmSettings["SSLRelayPort"] = 443 #$StoreFarm["SSLRelayPort"]
 $FarmSettings["ShareFileIntegration"] = $False
 $FarmSettings["LoadBalance"] = $False
@@ -101,13 +101,13 @@ $GatewayName = "AGEE"
 $GatewayURL = "https://apps.example.com"
 $SubnetIPAddress = ""
 $CallBackURL = "https://apps.example.com/CitrixAuthService/AuthService.asmx"
-$STAURL = "https://cd-ctx11.office.example.com/scripts/ctxsta.dll"
+$STAURL = "https://cc-cdc01.example/scripts/ctxsta.dll"
 
 # Shared Gateway Variables
 [Array]$AuthenticationProtocols = @("ExplicitForms","CitrixAGBasic","IntegratedWindows")
 [String]$LogonType = "Domain"
 [String]$Deployment = "Appliance"
-[String]$XenMobileSTA = "https://cd-ctx11.office.example.com/scripts/ctxsta.dll"
+[String]$XenMobileSTA = "https://cc-cdc01.example/scripts/ctxsta.dll"
 $SessionReliability = $true
 $RequestTicketTwoSTA = $false
 

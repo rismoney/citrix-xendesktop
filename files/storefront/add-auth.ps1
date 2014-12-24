@@ -10,7 +10,7 @@ start-transcript -path $logfile -noclobber
 $protocols=(Get-DSAuthenticationServicesSummary).protocols #|select choice
 $comparison=compare-object $AuthenticationProtocols $protocols.choice
 if ($comparison) {
-  Update-DSDeployedAuthenticationProtocols -SiteId $SiteID -VirtualPath $AuthenticationVirtualPath -RequiredMethods $AuthenticationProtocols
+  Set-DSAuthenticationProtocolsDeployed -SiteId $SiteID -VirtualPath $AuthenticationVirtualPath -Protocols $AuthenticationProtocols
   Write-Host "Added AuthenticationProtocols: $AuthenticationProtocols" -foregroundcolor "Green"
 }
 else {

@@ -2,10 +2,10 @@
 # Site Configuration
 # -------------------------------------------
 
-$DatabaseServer = "CX-SQL01-CRP,51029"
-$DatabaseName_Site = "XD7-DB_Site"
-$DatabaseName_Logging = "XD7-DB_Logging"
-$DatabaseName_Monitor = "XD7-DB_Monitor"
+$DatabaseServer = "IC-SQL01-INF\INF,56632"
+$DatabaseName_Site = "Site"
+$DatabaseName_Logging = "Logging"
+$DatabaseName_Monitor = "Monitor"
 $XD7Site = "CX-CTX-FARM01"
 
 $DatabaseUser = "username"
