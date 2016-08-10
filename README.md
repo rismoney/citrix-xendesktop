@@ -5,11 +5,11 @@ completely automated xendestop deployment via puppet
 
 status
 ======
-this is a fork of an internal repo demonstrating how I manage an
+This is a fork of an internal repo demonstrating how I manage an
 entire Citrix XenDesktop 7 environment using Puppet
 
-This is meant to be a starting point for an experience sysadmin
-interested in learning how to deploy an complex ecosystem app
+This is meant to be a starting point for an experienced sysadmin
+interested in learning how to deploy a complex ecosystem app
 like Citrix XD7.
 
 Interesting concepts leveraged
